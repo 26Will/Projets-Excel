@@ -16,10 +16,6 @@ Dans le cadre d'une SAE (Situation d'Apprentissage et d'Évaluation), ce projet 
 - `Livrables_SQL/` : Contient les requêtes SQL ayant permis d'extraire les données nécessaires.
 - `Reporting_Excel/` : Contient le fichier de reporting final `.xlsm` (Tableaux Croisés Dynamiques et Macros).
 
-## 📊 Aperçu du Tableau de Bord
-[Aperçu du Dashboard Excel](img/dashboard_preview.png)
-*(Remplacez le lien ci-dessus par le chemin vers votre propre capture d'écran)*
-
 > **Note :** Le fichier Excel contient des macros. Pour une expérience optimale, pensez à les activer lors de l'ouverture du fichier téléchargé.
 
 ## 👨‍💻 Auteur
